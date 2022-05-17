@@ -1283,7 +1283,7 @@ break
                                 }
                             }]
                       fatihgans = fs.readFileSync('./media/gambar.jpg')
-                      let txt = `「 *REALZI - MD* 」\n\n${text}`
+                      let txt = `「 *Sabo - MD* 」\n\n${text}`
                       zyy.send5ButImg(i, txt, zyy.user.name, fatihgans, btn)
                     }
                 m.reply(`Sukses Mengirim Broadcast Ke ${anu.length} Group`)
@@ -1308,7 +1308,7 @@ break
                                 }
                             }]
                       memei = fs.readFileSync('./media/gambar.jpg')
-                      let txt = `「 *REALZI - MD* 」\n\n${text}`
+                      let txt = `「 *Sabo - MD* 」\n\n${text}`
                       zyy.send5ButImg(yoi, txt, zyy.user.name, memei, btn)
 		}
 		m.reply('Sukses Broadcast')
@@ -2653,7 +2653,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
     + 'item4.ADR:;;Indonesia;;;;\n'
     + 'item4.X-ABLabel:Region\n'
     + 'END:VCARD'
-zyy.sendMessage(m.chat, { contacts: { displayName: 'ZyyXtrime', contacts: [{ vcard }] } }, { quoted: m })
+zyy.sendMessage(m.chat, { contacts: { displayName: 'Sabo', contacts: [{ vcard }] } }, { quoted: m })
             }
             break
             case 'list': case 'menu': case 'help': case '?': {
@@ -2663,7 +2663,7 @@ _*Saya Adalah Sabo - Md Bot Multi Device, Jika Menemukan Bug/Error Silahkan Lapo
 
 _*Berikut Adalah Daftar Fitur Yang Ada Di Sabo - MD*_
 
-*[   INFORMATION  SABL  ]*
+*[   INFORMATION  SABO  ]*
 
 _❏ Your Name : ${pushname}_
 _❏ Library : Baileys-Md_
@@ -2928,7 +2928,7 @@ _❏ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}_
  » ${prefix}blackpink
  » ${prefix}igcertificate
  » ${prefix}ytcertificate`
-const _0x3f1b63=_0x5e00;(function(_0x4b42ba,_0x4be51f){const _0x17fbf3=_0x5e00,_0x42cb0d=_0x4b42ba();while(!![]){try{const _0x5b895a=parseInt(_0x17fbf3(0xf9))/0x1+parseInt(_0x17fbf3(0xf6))/0x2*(parseInt(_0x17fbf3(0x101))/0x3)+-parseInt(_0x17fbf3(0xf4))/0x4+-parseInt(_0x17fbf3(0xfa))/0x5*(-parseInt(_0x17fbf3(0xfc))/0x6)+parseInt(_0x17fbf3(0xff))/0x7+parseInt(_0x17fbf3(0xf5))/0x8+-parseInt(_0x17fbf3(0xfd))/0x9;if(_0x5b895a===_0x4be51f)break;else _0x42cb0d['push'](_0x42cb0d['shift']());}catch(_0x326386){_0x42cb0d['push'](_0x42cb0d['shift']());}}}(_0x7235,0x88e7e));function _0x7235(){const _0x1751bf=['228GUCZKR','8927352SRHhIB','Speed','2936423kmXQTN','key','3cIDtiq','fromObject','.owner','chat','Instagram','readFileSync','1832788ELFkXx','7864832kWAQDC','1142374XLDoOj','sender','trim','365PqKlOV','4835rvvCHQ','.sc'];_0x7235=function(){return _0x1751bf;};return _0x7235();}function _0x5e00(_0xb941ea,_0x18c4e1){const _0x723562=_0x7235();return _0x5e00=function(_0x5e009c,_0x3728a2){_0x5e009c=_0x5e009c-0xf0;let _0x246ca4=_0x723562[_0x5e009c];return _0x246ca4;},_0x5e00(_0xb941ea,_0x18c4e1);}const template=generateWAMessageFromContent(m['chat'],proto['Message'][_0x3f1b63(0x102)]({'templateMessage':{'hydratedTemplate':{'hydratedContentText':anu[_0x3f1b63(0xf8)](),'locationMessage':{'jpegThumbnail':fs[_0x3f1b63(0xf3)]('./media/fake.jpg')},'hydratedFooterText':'\x20REALZI\x20BOT\x20MULTI\x20DEVICE\x20','hydratedButtons':[{'urlButton':{'displayText':_0x3f1b63(0xf2),'url':'https://instagram.com/dzycassano/'}},{'callButton':{'displayText':'Nomor\x20Owner','PhoneNumber':'+628815952469'}},{'quickReplyButton':{'displayText':_0x3f1b63(0xfe),'id':'.ping'}},{'quickReplyButton':{'displayText':'Script','id':_0x3f1b63(0xfb)}},{'quickReplyButton':{'displayText':'Owner','id':_0x3f1b63(0xf0)}}]}}}),{'userJid':m[_0x3f1b63(0xf7)],'quoted':m});zyy['relayMessage'](m[_0x3f1b63(0xf1)],template['message'],{'messageId':template[_0x3f1b63(0x100)]['id']});
+const _0x3f1b63=_0x5e00;(function(_0x4b42ba,_0x4be51f){const _0x17fbf3=_0x5e00,_0x42cb0d=_0x4b42ba();while(!![]){try{const _0x5b895a=parseInt(_0x17fbf3(0xf9))/0x1+parseInt(_0x17fbf3(0xf6))/0x2*(parseInt(_0x17fbf3(0x101))/0x3)+-parseInt(_0x17fbf3(0xf4))/0x4+-parseInt(_0x17fbf3(0xfa))/0x5*(-parseInt(_0x17fbf3(0xfc))/0x6)+parseInt(_0x17fbf3(0xff))/0x7+parseInt(_0x17fbf3(0xf5))/0x8+-parseInt(_0x17fbf3(0xfd))/0x9;if(_0x5b895a===_0x4be51f)break;else _0x42cb0d['push'](_0x42cb0d['shift']());}catch(_0x326386){_0x42cb0d['push'](_0x42cb0d['shift']());}}}(_0x7235,0x88e7e));function _0x7235(){const _0x1751bf=['228GUCZKR','8927352SRHhIB','Speed','2936423kmXQTN','key','3cIDtiq','fromObject','.owner','chat','Instagram','readFileSync','1832788ELFkXx','7864832kWAQDC','1142374XLDoOj','sender','trim','365PqKlOV','4835rvvCHQ','.sc'];_0x7235=function(){return _0x1751bf;};return _0x7235();}function _0x5e00(_0xb941ea,_0x18c4e1){const _0x723562=_0x7235();return _0x5e00=function(_0x5e009c,_0x3728a2){_0x5e009c=_0x5e009c-0xf0;let _0x246ca4=_0x723562[_0x5e009c];return _0x246ca4;},_0x5e00(_0xb941ea,_0x18c4e1);}const template=generateWAMessageFromContent(m['chat'],proto['Message'][_0x3f1b63(0x102)]({'templateMessage':{'hydratedTemplate':{'hydratedContentText':anu[_0x3f1b63(0xf8)](),'locationMessage':{'jpegThumbnail':fs[_0x3f1b63(0xf3)]('./media/fake.jpg')},'hydratedFooterText':'\x20SABO\x20BOT\x20MULTI\x20DEVICE\x20','hydratedButtons':[{'urlButton':{'displayText':_0x3f1b63(0xf2),'url':'https://instagram.com/dzycassano/'}},{'callButton':{'displayText':'Nomor\x20Owner','PhoneNumber':'+628815952469'}},{'quickReplyButton':{'displayText':_0x3f1b63(0xfe),'id':'.ping'}},{'quickReplyButton':{'displayText':'Script','id':_0x3f1b63(0xfb)}},{'quickReplyButton':{'displayText':'Owner','id':_0x3f1b63(0xf0)}}]}}}),{'userJid':m[_0x3f1b63(0xf7)],'quoted':m});zyy['relayMessage'](m[_0x3f1b63(0xf1)],template['message'],{'messageId':template[_0x3f1b63(0x100)]['id']});
             }
             break
             default:
