@@ -10,7 +10,7 @@ global.APIs = {
 // Apikey Website Api
 global.APIKeys = {
         'https://hardianto.xyz': 'hardianto',
-        'https://zenzapis.xyz': '7d1e10e532', //Untuk Mendapatkan Apikey Silahkan Register Di : https://zenzapi.xyz
+        'https://zenzapis.xyz': 'netrogembel', //Untuk Mendapatkan Apikey Silahkan Register Di : https://zenzapi.xyz
         
 }
 
