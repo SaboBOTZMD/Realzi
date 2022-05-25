@@ -103,7 +103,7 @@ return zyy.sendMessage(from, { document: await getBuffer(url), mimetype: mime, c
 
 //━━━━━━━━━━━━━━━[ 𝗦𝗦𝗧 ]━━━━━━━━━━━━━━━\\
 
- *try {
+ /*try {
             let isNumber = x => typeof x === 'number' && !isNaN(x)
             let limitUser = isPremium ? global.limitawal.premium : global.limitawal.free
             let user = global.db.data.users[m.sender]
@@ -141,7 +141,7 @@ return zyy.sendMessage(from, { document: await getBuffer(url), mimetype: mime, c
         } catch (err) {
             console.error(err)
         }
-*
+/*
 //━━━━━━━━━━━━━━━[ 𝗕𝗨𝗧𝗧𝗢𝗡 ]━━━━━━━━━━━━━━━\\
 const sendButton5 = async (id, text1, desc1, yo) => {
 
